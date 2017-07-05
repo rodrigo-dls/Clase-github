@@ -5,4 +5,4 @@ A basic navbar built using [flexbox](https://scotch.io/tutorials/a-visual-guide-
 ## Quickstart
 
 - Clone the repository
-- Open "index.html" in your local browser.
+- Open `index.html` in your local browser.
